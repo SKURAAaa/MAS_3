@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MAS3_s25972/1.0.0": {
+        "runtime": {
+          "MAS3_s25972.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MAS3_s25972/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

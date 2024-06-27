@@ -1,0 +1,15 @@
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\bin\Debug\net8.0\MAS3_s25972.exe
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\bin\Debug\net8.0\MAS3_s25972.deps.json
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\bin\Debug\net8.0\MAS3_s25972.runtimeconfig.json
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\bin\Debug\net8.0\MAS3_s25972.dll
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\bin\Debug\net8.0\MAS3_s25972.pdb
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\obj\Debug\net8.0\MAS3_s25972.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\obj\Debug\net8.0\MAS3_s25972.AssemblyInfoInputs.cache
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\obj\Debug\net8.0\MAS3_s25972.AssemblyInfo.cs
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\obj\Debug\net8.0\MAS3_s25972.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\obj\Debug\net8.0\MAS3_s25972.dll
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\obj\Debug\net8.0\refint\MAS3_s25972.dll
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\obj\Debug\net8.0\MAS3_s25972.pdb
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\obj\Debug\net8.0\MAS3_s25972.genruntimeconfig.cache
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\obj\Debug\net8.0\ref\MAS3_s25972.dll
+C:\Users\Kacper\RiderProjects\MAS3_s25972\MAS3_s25972\obj\Debug\net8.0\MAS3_s25972.sourcelink.json
